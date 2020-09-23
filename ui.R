@@ -4,7 +4,7 @@ shinyUI(fluidPage(
   
   titlePanel(title= " This is my first shiny app, hello shiny"),
   sidebarLayout(
-    sidebarPanel("this is side bar panel dd"),
+    sidebarPanel("this is side bar panel by sharaddhansu"),
     mainPanel("this is the main panel")
   )
 )
